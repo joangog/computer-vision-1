@@ -1,2 +1,5 @@
 
 .ipynb_checkpoints/Computer_Vision_1_Lab_1-checkpoint.ipynb
+*.bin
+Final_Lab_Part_1/stl10_binary/fold_indices.txt
+Final_Lab_Part_1/stl10_binary/class_names.txt
